@@ -1,0 +1,23 @@
+{
+  "name": "mybook",
+  "version": "1.0.0",
+  "description": "这是电子书mybook的Dome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangxiaoyun1/mybook.git"
+  },
+  "keywords": [],
+  "author": "zhangxiaoyun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhangxiaoyun1/mybook/issues"
+  },
+  "homepage": "https://github.com/zhangxiaoyun1/mybook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
